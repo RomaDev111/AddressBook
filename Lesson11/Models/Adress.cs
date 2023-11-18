@@ -10,7 +10,7 @@ namespace Lesson11.Models
         public string District { get; set; }
         public string Street { get; set; }
 		public string HouseNumber { get; set; }
-
+		   
 		public Address()
 		{
 			Country = "Uzbekistan";
